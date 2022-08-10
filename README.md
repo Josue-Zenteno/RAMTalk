@@ -1,3 +1,3 @@
 # RAMTalk
 
-Gentleman Programming Hackaton
+Gentleman Programming Hackaton Challenge
